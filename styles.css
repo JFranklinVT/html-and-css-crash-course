@@ -79,6 +79,7 @@ main{
 article h2{
   color: #F63232;
   font-size: 48px;
+  /* position: sticky; */
 }
 article p{
   line-height: 2em;
@@ -134,6 +135,10 @@ footer{
   color: white;
   padding: 10px;
   text-align: center;
+}
+.data-table {
+  background: grey;
+  color: red;
 }
 
 /* responsive styles */
